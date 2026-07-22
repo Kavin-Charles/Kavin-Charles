@@ -6,8 +6,8 @@ Software Engineer • Backend • Cloud • Systems Design
 
 <p align="center">
 <a href="https://linkedin.com/in/kavin-charles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://vencore.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="mailto:hello@vencore.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://kavincharles.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="mailto:kavincharles@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=Kavin-Charles&style=flat-square">
 </p>
 
